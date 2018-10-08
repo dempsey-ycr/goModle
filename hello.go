@@ -1,4 +1,4 @@
-package goModule
+package goModle
 
 import  (
 	"fmt"
