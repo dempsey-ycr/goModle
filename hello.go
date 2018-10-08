@@ -1,9 +1,9 @@
-package main
+package goModule
 
 import  (
 	"fmt"
 )
 
-func Myprint() {
+func Print() {
 	fmt.Println("Hello, World...")
 }
